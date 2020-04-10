@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wjtoi.cn</id>
-    <title>一只爱摸鱼的咸鱼</title>
-    <updated>2020-04-09T15:48:41.746Z</updated>
+    <title>Jingtian&apos;s Blog</title>
+    <updated>2020-04-10T08:37:57.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wjtoi.cn"/>
     <link rel="self" href="https://wjtoi.cn/atom.xml"/>
     <subtitle>Gratitude and responsibility.</subtitle>
     <logo>https://wjtoi.cn/images/avatar.png</logo>
     <icon>https://wjtoi.cn/favicon.ico</icon>
-    <rights>All rights reserved 2020, 一只爱摸鱼的咸鱼</rights>
+    <rights>All rights reserved 2020, Jingtian&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wjtoi.cn/post/hello-gridea/</id>
