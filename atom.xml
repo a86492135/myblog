@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wjtoi.cn</id>
     <title>Jingtian&apos;s Blog</title>
-    <updated>2020-04-11T10:05:34.053Z</updated>
+    <updated>2020-04-11T10:11:35.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wjtoi.cn"/>
     <link rel="self" href="https://wjtoi.cn/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://wjtoi.cn/images/avatar.png</logo>
     <icon>https://wjtoi.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Jingtian&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[小记-自发的为某位Up设计宣传页]]></title>
+        <id>https://wjtoi.cn/post/xiao-ji-zi-fa-de-wei-mou-wei-up-she-ji-xuan-chuan-ye/</id>
+        <link href="https://wjtoi.cn/post/xiao-ji-zi-fa-de-wei-mou-wei-up-she-ji-xuan-chuan-ye/">
+        </link>
+        <updated>2020-04-11T10:08:03.000Z</updated>
+        <content type="html"><![CDATA[<p>最近不知道是不是自己过于无聊还是已经被高考的压力所麻木，竟然开始写起了HTML。这不写不要紧，一写就出了问题，很多语句忘记了，CSS不会了。自适应也不会搞了。整个人什么都不会了...<img src="https://wjtoi.cn/post-images/1586599813294.jpg" alt="" loading="lazy"></p>
+<p>感觉写的还行吧，不对自己做过高的要求，毕竟这个时间段咱也写不出什么厉害的东西来。你说是吧？</p>
+<p>在这之中遇到了一些问题，如Pages服务托管时延迟，CNAME的使用与修改， 双线部署的困难。<img src="https://wjtoi.cn/post-images/1586599890238.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小记-上海交通大学附属中学网页设计]]></title>
         <id>https://wjtoi.cn/post/xiao-ji-shang-hai-jiao-tong-da-xue-fu-shu-zhong-xue-wang-ye-she-ji/</id>
