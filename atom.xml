@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wjtoi.cn</id>
     <title>Jingtian&apos;s Blog</title>
-    <updated>2020-04-10T09:14:46.030Z</updated>
+    <updated>2020-04-11T08:25:11.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wjtoi.cn"/>
     <link rel="self" href="https://wjtoi.cn/atom.xml"/>
@@ -11,12 +11,26 @@
     <icon>https://wjtoi.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Jingtian&apos;s Blog</rights>
     <entry>
+        <title type="html"><![CDATA[小记-上海交通大学附属中学网页设计]]></title>
+        <id>https://wjtoi.cn/post/xiao-ji-shang-hai-jiao-tong-da-xue-fu-shu-zhong-xue-wang-ye-she-ji/</id>
+        <link href="https://wjtoi.cn/post/xiao-ji-shang-hai-jiao-tong-da-xue-fu-shu-zhong-xue-wang-ye-she-ji/">
+        </link>
+        <updated>2020-04-11T08:21:17.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://wjtoi.cn/post-images/1586593343514.jpg" alt="" loading="lazy"><br>
+花了两天时间做了这个页面，也算是在结束自己的高中生活前留下一点点独特的回忆吧。<br>
+https://shjdfz.cn<br>
+使用了网页下载软件，把Apple的iPad Pro2020款页面下载了下来，一点点修改。<br>
+如果要说这里面什么事情的最难以忘记的？大概就是一点点去改超链接和图片吧，不得不赞叹苹果的网页设计的实在是非常的好。完美兼容各个分辨率的设备，什么时候我也能设计出这样的网页那可就太好了。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[终于做好博客啦]]></title>
         <id>https://wjtoi.cn/post/zhong-yu-zuo-hao-bo-ke-la/</id>
         <link href="https://wjtoi.cn/post/zhong-yu-zuo-hao-bo-ke-la/">
         </link>
         <updated>2020-04-10T09:06:34.000Z</updated>
-        <content type="html"><![CDATA[<p>2020年4月10日17:06:56 将Blog托管到了Github与Coding Pages上。待到高考完后要开始写博客了。😁<img src="https://wjtoi.cn/post-images/1586509653189.png" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p><img src="https://wjtoi.cn/post-images/1586509653189.png" alt="" loading="lazy"><br>
+2020年4月10日17:06:56 将Blog托管到了Github与Coding Pages上。待到高考完后要开始写博客了。😁</p>
 ]]></content>
     </entry>
 </feed>
