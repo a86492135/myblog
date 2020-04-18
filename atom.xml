@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wjtoi.cn</id>
     <title>Jingtian&apos;s Blog</title>
-    <updated>2020-04-11T10:23:26.873Z</updated>
+    <updated>2020-04-18T06:01:19.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wjtoi.cn"/>
     <link rel="self" href="https://wjtoi.cn/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://wjtoi.cn/images/avatar.png</logo>
     <icon>https://wjtoi.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Jingtian&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[小记-修正鬼畜调音《明亮Disco》]]></title>
+        <id>https://wjtoi.cn/post/xiao-ji-xiu-zheng-gui-chu-diao-yin-lesslessming-liang-discogreatergreater/</id>
+        <link href="https://wjtoi.cn/post/xiao-ji-xiu-zheng-gui-chu-diao-yin-lesslessming-liang-discogreatergreater/">
+        </link>
+        <updated>2020-04-18T05:57:59.000Z</updated>
+        <content type="html"><![CDATA[<p>明亮Disco是我于2019年10月21日放学回家制作的，第一版本花了四个小时。制作不是很精细，做的不是很好，词也填的比较暴力。<br>
+原版视频：https://www.youtube.com/watch?v=zLDhqz31S9U<br>
+<img src="https://wjtoi.cn/post-images/1587189611001.jpg" alt="" loading="lazy"><br>
+第二版本于2020年4月17日修正，填词比较精甚细腻，希望郁明亮老师终有一天会被开除出教师的队伍。<br>
+第二版本视频：https://www.bilibili.com/video/BV17A411b7NM</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小记-制作鬼畜调音《千本王》]]></title>
+        <id>https://wjtoi.cn/post/xiao-ji-zhi-zuo-gui-chu-diao-yin-lesslessqian-ben-wang-greatergreater/</id>
+        <link href="https://wjtoi.cn/post/xiao-ji-zhi-zuo-gui-chu-diao-yin-lesslessqian-ben-wang-greatergreater/">
+        </link>
+        <updated>2020-04-18T05:55:43.000Z</updated>
+        <content type="html"><![CDATA[<p>千本王原曲千本樱，经过调教已经变成千本王啦！<br>
+全程制作24个小时不到，这次感觉还是调的不满意，毕竟音被我降的有点过低了。而且声音和伴奏结合的不是很好，希望下个作品可以修正吧。<img src="https://wjtoi.cn/post-images/1587189457921.jpg" alt="" loading="lazy"><br>
+千本王：https://www.bilibili.com/video/BV1MT4y1V7RC<br>
+😁</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最想知道的]]></title>
         <id>https://wjtoi.cn/post/ni-zui-xiang-zhi-dao-de/</id>
